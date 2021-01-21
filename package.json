@@ -1,0 +1,25 @@
+{
+  "name": "what-can-you-do-in-cypress",
+  "version": "1.0.0",
+  "description": "📄 Document findings",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidseow/what-can-you-do-in-cypress.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "David Seow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidseow/what-can-you-do-in-cypress/issues"
+  },
+  "homepage": "https://github.com/davidseow/what-can-you-do-in-cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
+}
