@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/davidseow/what-can-you-do-in-cypress#readme",
   "devDependencies": {
-    "cypress": "^6.3.0"
+    "cypress": "10.10.0"
   }
 }
